@@ -10,7 +10,7 @@ Serão incluidas uma lista de exercícios a cada mês.Cada lista terá 7 itens(u
 ## 1 Mês:
 ### 1 semana:
 
-* 1	Multiples of 3 and 5	
+* 1	[Multiples of 3 and 5]!(https://turing-challenges.github.io/mini-blog/problem/resolution/2018/06/16/10-44-multiples-of-3-and-5.html)
 * 2	Even Fibonacci numbers	
 * 3	Largest prime factor
 * 4	Largest palindrome product	
