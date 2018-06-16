@@ -18,6 +18,8 @@ Serão incluidas uma lista de exercícios a cada mês.Cada lista terá 7 itens(u
 * 6	Sum square difference	
 * 7	10001st prime
 
+### 2 semana:
+
 * 8	Largest product in a series	
 * 9	Special Pythagorean triplet	
 * 10	Summation of primes	
@@ -25,6 +27,8 @@ Serão incluidas uma lista de exercícios a cada mês.Cada lista terá 7 itens(u
 * 12	Highly divisible triangular number	
 * 13	Large sum	
 * 14	Longest Collatz sequence
+
+### 3 semana:
 
 * 15 Lattice paths	
 * 16	Power digit sum	
@@ -34,6 +38,7 @@ Serão incluidas uma lista de exercícios a cada mês.Cada lista terá 7 itens(u
 * 20	Factorial digit sum	
 * 21	Amicable numbers
 
+### 4 semana:
 * 22	Names scores	
 * 23	Non-abundant sums	
 * 24	Lexicographic permutations	
