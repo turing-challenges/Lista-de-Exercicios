@@ -1,4 +1,4 @@
-breadscrumbs: **index**
+Mini-Blog
 
 A lista de exercicios que utilizamos é a [Project Euler - Archives](https://projecteuler.net), propriamente a sessão de arquivos [Project Euler - Archives](https://projecteuler.net/archives).
 
